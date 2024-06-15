@@ -1,8 +1,6 @@
 !*/
-!/*.uproject
 !/.git*
 !/Config/**
-!/Content/**/*.uasset
 !/Content/**/*.umap
 !/Plugins/**
 !/RawContent/**/*
@@ -34,13 +32,11 @@
 *.out
 *.pch
 *.sdf
-*.sln
 *.slo
 *.so
 *.suo
 *.un~
 *.xcodeproj
-*.xcworkspace
 *_BuiltData.uasset
 *~
 .AppleDouble
@@ -115,7 +111,6 @@ Thumbs.db
 \*.out
 \*.pch
 \*.sdf
-\*.sln
 \*.slo
 \*.so
 \*.suo
